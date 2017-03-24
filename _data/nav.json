@@ -1,0 +1,14 @@
+[
+    { "name": "Home", "href": "/" },
+    { "name": "Dropdown", "href": "#", "children": [
+        { "name": "First Item", "href": "/" },
+        { "name": "Second Item", "href": "/" },
+        { "name": "I have kids", "href": "/", "children": [
+            { "name": "Third Item", "href": "/" },
+            { "name": "Fourth Item", "href": "/" }
+        ]}
+    ] },
+    { "name": "Left Sidebar", "href": "/left-sidebar.html" },
+    { "name": "Right Sidebar", "href": "/right-sidebar.html" },
+    { "name": "No Sidebar", "href": "/no-sidebar.html" }
+]
