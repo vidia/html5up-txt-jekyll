@@ -34,3 +34,5 @@ Credits:
 		Respond.js (j.mp/respondjs)
 		jquery.dropotron (@ajlkn)
 		Skel (skel.io)
+
+Conversion to Jekyll was done by David Tschida.
